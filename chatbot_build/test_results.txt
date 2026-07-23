@@ -1,0 +1,47 @@
+======================================================================
+GFC FINANCIAL CHATBOT - TEST RESULTS
+======================================================================
+
+[Test 1] User: What is the total revenue of Microsoft?
+Bot: Microsoft's total revenue for FY2025 was $281,724 million (~$281.7B), up 14.9% from FY2024 ($245,122 million (~$245.1B)).
+
+[Test 2] User: How has net income changed over the last year for Tesla?
+Bot: Tesla's net income decreased by 46.5% over the last year, from $7,091 million (~$7.1B) in FY2024 to $3,794 million (~$3.8B) in FY2025.
+
+[Test 3] User: What are the total assets of Apple?
+Bot: Apple's total assets for FY2025 were $359,241 million (~$359.2B), a change of -1.6% versus FY2024 ($364,980 million (~$365.0B)).
+
+[Test 4] User: What are the total liabilities of Microsoft?
+Bot: Microsoft's total liabilities for FY2025 were $275,524 million (~$275.5B), a change of +13.1% versus FY2024 ($243,686 million (~$243.7B)).
+
+[Test 5] User: What is the cash flow from operating activities of Tesla?
+Bot: Tesla's cash flow from operating activities for FY2025 was $14,747 million (~$14.7B), a change of -1.2% versus FY2024 ($14,923 million (~$14.9B)).
+
+[Test 6] User: Give me a financial summary of Apple
+Bot: FY2025 snapshot for Apple:
+  - Revenue: $416,161 million (~$416.2B)
+  - Net income: $112,010 million (~$112.0B) (net margin 26.9%)
+  - Total assets: $359,241 million (~$359.2B)
+  - Total liabilities: $285,508 million (~$285.5B)
+  - Operating cash flow: $111,482 million (~$111.5B)
+
+[Test 7] User: revenue AAPL
+Bot: Apple's total revenue for FY2025 was $416,161 million (~$416.2B), up 6.4% from FY2024 ($391,035 million (~$391.0B)).
+
+[Test 8] User: How is the weather today?
+Bot: Please mention a company: Microsoft, Apple, or Tesla.
+Example: 'What is the total revenue of Apple?'
+
+[Test 9] User: What is the revenue?
+Bot: Please mention a company: Microsoft, Apple, or Tesla.
+Example: 'What is the total revenue of Apple?'
+
+[Test 10] User: hello
+Bot: Hi! I'm GFC's financial chatbot. I can answer these questions about Microsoft, Apple, or Tesla (FY2023-FY2025):
+  1. What is the total revenue of <company>?
+  2. How has net income changed over the last year for <company>?
+  3. What are the total assets of <company>?
+  4. What are the total liabilities of <company>?
+  5. What is the cash flow from operating activities of <company>?
+  6. Give me a financial summary of <company>.
+Type 'exit' to quit.
